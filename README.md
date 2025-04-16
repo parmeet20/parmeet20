@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm <b>PARMEET SINGH</b>, a Full Stack Web Developer passionate about exploring new technologies like Machine Learning & Blockchain.</h2>
+<h2 align="center">Hi, I'm <b>PARMEET SINGH</b>, Blockchain Developer && Full Stack Developer, passionate about exploring new technologies</h2>
 
 ---
 
@@ -44,8 +44,3 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-<h3 align="center">🌱 Currently Exploring</h3>
-<p align="center">Machine Learning, Blockchain Development, Smart Contracts, and more...</p>
